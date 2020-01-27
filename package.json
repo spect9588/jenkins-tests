@@ -35,7 +35,7 @@
   },
   "name": "helloworld",
   "scripts": {
-    "start": "server.js"
+    "start": "hello-world-nodejs.js"
   },
   "version": "0.0.0"
 }
